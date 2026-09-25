@@ -17,7 +17,7 @@ As for *non-programming* languages, I speak: native Portuguese; fluent English; 
 I like to draw in ASCII in my free time, as such, here's a **completely necessary** demonstration of my artistic talent:
 
 <p align="center">
-  <img src="./asciiEnthusiast.svg" alt="ASCII drawing">
+  <img src="./asciiEnthusiast.svg" alt="ASCII drawing" width="50%">
 </p>
 
 <!--
